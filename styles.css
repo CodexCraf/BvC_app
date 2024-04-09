@@ -1,0 +1,35 @@
+
+
+/* new */
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    width: 50%;
+    margin: auto;
+}
+
+input[type="text"],
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+h1{
+    text-align: center;
+}
