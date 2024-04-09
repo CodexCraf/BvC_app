@@ -1,0 +1,14 @@
+{
+  "name": "bvc_sport",
+  "version": "1.0.0",
+  "description": "A user registration website using REST api approach.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Eno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
